@@ -95,7 +95,7 @@ string="Los elementos mínimos de la interfaz proporcionan una pantalla más lim
 //FOR FUTURE IMPLEMENTATIONS
 
 [system_menus_options_video_texture] //Remove from vanilla
-string="Calidad de las Texturas"
+string="Detalles de las Texturas"
 
 [system_menus_options_video_texture_ultra] //Up to 4k
 string="Ultra"
